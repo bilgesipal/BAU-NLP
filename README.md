@@ -16,8 +16,8 @@
 
 #### Assignments:
 
-* Sentiment analysis using classical NLP techniques
-* Module 2: Deep Learning Foundations for NLP (Weeks 3-7)
+* Sentiment analysis using classical NLP techniques 
+### Module 2: Deep Learning Foundations for NLP (Weeks 3-7)
 #### week 3
 
 * Subword Models and Byte Pair Encoding
