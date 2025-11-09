@@ -31,11 +31,11 @@
 * Introduction to Neural Networks for NLP
 #### week 6
 
-* Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTMs)
+* Recurrent Neural Networks (RNNs) 
 
 #### week 7
 
-* Applications of Embeddings in Business (search engines, recommendation systems)
+* Long Short-Term Memory (LSTMs)
 * Final Assignment Proposals
 #### Assignments:
 
