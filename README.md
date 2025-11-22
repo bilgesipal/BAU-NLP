@@ -76,7 +76,7 @@ By the end of the course, students will:
 ### Second Assignment 
 - The report and the GitHub link for your Code must be sent to my mail by the end of 01.12.2025
 - The Presentations will be on  05.12.2025
-## Midterm Project (30%):  Exam (28.11.2025 Lecture Room)
+## Midterm Project (30%):  Exam (21.11.2025 Lecture Room)
 ## Final Project (40%): End-to-end NLP system involving deep learning. 
 - The Proposals for the Final Project (you must discuss with me and get my approval )  12.12.2025
 - The Final Project Reports and the GitHub link must be sent to my email address by the end of TBA
