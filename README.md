@@ -35,31 +35,33 @@
 
 #### week 7
 
-* Long Short-Term Memory (LSTMs)
-* Final Assignment Proposals
-#### Assignments:
-
-* Implementing text classification using pre-trained word embeddings
-* Fine-tuning an LSTM-based sentiment classifier
+* Midterm Exam
 
 ### Module 3: Advanced Deep Learning for NLP & LLMs (Weeks 8-12)
 #### Week 8
 
-* Transformer Models: BERT, GPT, T5
+* LSTM and GRU Networks
 * Attention Mechanisms and Self-Attention
 
 #### Assignment Presentations
 #### Week 9
 
-* Fine-tuning Pretrained Language Models
+* Transformer Models
+* Assignment Presentations
+
 
 #### Week 10
 
+* Introduction to Pretrained Large Language Models (GPT, T5)
+* Fine-tuning Pretrained Language Models
+
+#### Week 11
 * Zero-shot, Few-shot, and Fine-tuned LLMs
 * Prompt Engineering
 
-#### Week 11 and 12
+#### Week 12
 * NLP-based API Development
+
 ## Learning Outcomes
 By the end of the course, students will:
 1. Apply NLP techniques to solve real-world business problems.
