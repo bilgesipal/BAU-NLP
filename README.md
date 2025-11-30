@@ -47,13 +47,13 @@
 #### Week 9
 
 * Transformer Models
-* Assignment Presentations
+* Introduction to Pretrained Large Language Models (GPT, T5)
+* Fine-tuning Pretrained Language Models
 
 
 #### Week 10
-
-* Introduction to Pretrained Large Language Models (GPT, T5)
-* Fine-tuning Pretrained Language Models
+*  Fine-tuning Techniques
+*  Assignment Presentations
 
 #### Week 11
 * Zero-shot, Few-shot, and Fine-tuned LLMs
@@ -76,8 +76,8 @@ By the end of the course, students will:
 - The report and the GitHub link for your Code must be sent to my email by the end of 27.10.2025
 - The Presentations will be on  31.10.2025
 ### Second Assignment 
-- The report and the GitHub link for your Code must be sent to my mail by the end of 01.12.2025
-- The Presentations will be on  05.12.2025
+- The report and the GitHub link for your Code must be sent to my mail by the end of 10.12.2025
+- The Presentations will be on  12.12.2025
 ## Midterm Project (30%):  Exam (21.11.2025 Lecture Room)
 ## Final Project (40%): End-to-end NLP system involving deep learning. 
 - The Proposals for the Final Project (you must discuss with me and get my approval )  12.12.2025
